@@ -31,7 +31,7 @@ void dash(){
     delay(unitTime);
 }
 void space(){
-    delay(6*unitTime); /* cuz every dot and dash end with one unit, (actuall space 7 unit)*/
+    delay(6*unitTime); // cuz every dot and dash end with one unit, (actuall space 7 unit)
 }
 void letterSpace(){
     delay(unitTime*2);
